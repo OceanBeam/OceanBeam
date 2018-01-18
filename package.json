@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/OceanBeam/OceanBeam/issues"
   },
-  "homepage": "https://github.com/OceanBeam/OceanBeam#readme"
+  "homepage": "https://github.com/OceanBeam/OceanBeam#readme",
+  "devDependencies": {
+    "@types/node": "^9.3.0"
+  }
 }
