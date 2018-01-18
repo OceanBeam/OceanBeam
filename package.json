@@ -1,0 +1,24 @@
+{
+  "name": "oceanbeam",
+  "version": "1.0.0",
+  "description": "jQuery in TypeScript and better (not really lol)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OceanBeam/OceanBeam.git"
+  },
+  "keywords": [
+    "jquery",
+    "oceanbeam",
+    "node"
+  ],
+  "author": "OceanBeam <https://github.com/OceanBeam>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OceanBeam/OceanBeam/issues"
+  },
+  "homepage": "https://github.com/OceanBeam/OceanBeam#readme"
+}
