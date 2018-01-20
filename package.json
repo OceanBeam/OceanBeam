@@ -22,6 +22,15 @@
   },
   "homepage": "https://github.com/OceanBeam/OceanBeam#readme",
   "devDependencies": {
-    "@types/node": "^9.3.0"
+    "@types/node": "^9.3.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-minify": "^2.1.0",
+    "gulp-typescript": "^4.0.0-alpha.1",
+    "gulp-uglify": "^3.0.0",
+    "webpack-stream": "^4.0.0"
+  },
+  "dependencies": {
+    "typescript": "^2.6.2"
   }
 }
