@@ -4,7 +4,7 @@
   "description": "jQuery in TypeScript and better (not really lol)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc include.ts"
   },
   "repository": {
     "type": "git",
